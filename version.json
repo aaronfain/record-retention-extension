@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.8",
   "downloadUrl": "https://github.com/aaronfain/record-retention-extension/raw/main/record-retention-extension.zip",
-  "releaseNotes": "Initial release"
+  "releaseNotes": "Bug fixes. Optimized for speed and reliability."
 }
